@@ -1,2 +1,2 @@
-# Hash-Map-task-
+# Hash-Map-task
 HSE algo task
